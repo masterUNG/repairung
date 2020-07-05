@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "380589168516",
+    "firebase_url": "https://repairung.firebaseio.com",
+    "project_id": "repairung",
+    "storage_bucket": "repairung.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380589168516:android:aefd575a02074a99fc2fd1",
+        "android_client_info": {
+          "package_name": "com.flutterthailand.repairung"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380589168516-1qu5fl2c4mnkja3rf7cpjk8aj1p63eln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcplM6afoKNLWvu6Z9_Ji54RrNAmCbzdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380589168516-1qu5fl2c4mnkja3rf7cpjk8aj1p63eln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

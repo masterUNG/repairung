@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>380589168516-e3lpeedidbsbhicclragsl4jo3ekccvl.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.380589168516-e3lpeedidbsbhicclragsl4jo3ekccvl</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDhnMf_BeyyTtM7k4h4-O1Brs8u9uMqOI4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>380589168516</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.flutterthailand.repairung</string>
+	<key>PROJECT_ID</key>
+	<string>repairung</string>
+	<key>STORAGE_BUCKET</key>
+	<string>repairung.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:380589168516:ios:80cd9455ea4e5eabfc2fd1</string>
+	<key>DATABASE_URL</key>
+	<string>https://repairung.firebaseio.com</string>
+</dict>
+</plist>
